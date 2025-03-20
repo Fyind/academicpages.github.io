@@ -25,6 +25,8 @@ When you are initially working on your website, it is very useful to be able to 
     On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
     ```bash
     sudo apt install ruby-dev ruby-bundler nodejs
+    sudo apt update
+    sudo apt install -y build-essential ruby-dev zlib1g-dev libffi-dev libyaml-dev libgdbm-dev libncurses5-dev libreadline-dev libssl-dev
     ```
     If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
     ```bash

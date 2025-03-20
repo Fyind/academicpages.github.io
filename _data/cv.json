@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yi Fan",
+    "email": "yi.fan@tum.de",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "fyind.de",
+    "summary": "Currently Master Student at Technical University of Munich. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Munich",
+      "countryCode": "DE",
+      "region": "Germany"
     },
     "profiles": [
       {
